@@ -1,6 +1,8 @@
 MultiLCD Library for Arduino
 ============================
 
+This was start source fork for a DigiStump PRO library : for the Pro please use: MicrOledPro
+
 _Written by Stanley Huang, distributed under GPL._
 
 MultiLCD is an Arduino library designed for displaying characters and bitmaps on different models of Arduino LCD display shields/modules with easy-to-use and unified API. It is developed with performance in the first priority. For supporting a wide range of devices and providing additional rendering APIs, the new implementation inherits a modified version of UTFT library. That means most APIs of UTFT are accessible via MultiLCD library.
